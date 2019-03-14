@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "IHCcontroller", "IHCcontroller.cppproj", "{76872E0E-36C3-4169-8AAC-E2E6764A586F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76872E0E-36C3-4169-8AAC-E2E6764A586F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{76872E0E-36C3-4169-8AAC-E2E6764A586F}.Debug|AVR.Build.0 = Debug|AVR
+		{76872E0E-36C3-4169-8AAC-E2E6764A586F}.Release|AVR.ActiveCfg = Release|AVR
+		{76872E0E-36C3-4169-8AAC-E2E6764A586F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
